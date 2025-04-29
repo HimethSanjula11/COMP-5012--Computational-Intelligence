@@ -1,0 +1,26 @@
+# Core dependencies
+numpy>=1.21.0
+matplotlib>=3.5.0
+pandas>=1.3.0
+
+# Evolutionary computation
+deap>=1.3.1  # Alternative MOEA framework (optional)
+pymoo>=0.6.0  # Multi-objective optimization tools
+
+# Visualization
+seaborn>=0.11.2
+plotly>=5.8.0  # For interactive Pareto front visualization
+ipython>=8.0.0  # For Jupyter notebook support
+
+# Testing & Profiling
+pytest>=7.0.0
+pytest-cov>=3.0.0
+memory_profiler>=0.60.0
+
+# Documentation
+sphinx>=5.0.0
+sphinx-rtd-theme>=1.0.0
+
+# Formatting & Linting
+black>=22.0.0
+flake8>=4.0.0
